@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @superhuman2020
 - 👀 I’m interested in computer graphics.
 - 🌱 I’m currently learning OpenGL and basic ray tracing.
-- 💞️ I’m looking to collaborate on my own projects.
 - 📫 Reach me by my GitHub account.
