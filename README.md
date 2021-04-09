@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @superhuman2020
-- 👀 I’m interested in computer graphics.
-- 🌱 I’m currently learning OpenGL and basic ray tracing.
-- 📫 Reach me by my GitHub account.
+![github stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true)
