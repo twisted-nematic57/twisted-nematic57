@@ -1,1 +1,1 @@
-Hello, I am HackerDaGreat57 and I am interested in computer graphics, and MANY other things. Browse my "files" repo to learn more about what I like!
+I mostly experiment with C++/Computer graphics. I'm working on something that's too large to be pushed to Git for now, so I'll figure something out to make it less in size (Maybe 7-zip chunk-based compression or something....)
