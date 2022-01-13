@@ -1,4 +1,4 @@
-Currently, C++ on Windows is my jam - I make [CarbonCoffee](https://github.com/HackerDaGreat57/CarbonCoffee). I'm a white hat 🤠 ignore any virus warnings from my software/websites! All of them are false positives 😉. Also, most of my stuff is on SVN, so projects made after 1/12/2022 all get created there. (look down ↓)
+Currently, C++ on Windows is my jam - I make [CarbonCoffee](https://github.com/HackerDaGreat57/CarbonCoffee). I'm a white hat 🤠 ignore any virus warnings from my software/websites! All of them are false positives 😉. Also, most of my stuff is on SVN, so the GitHub repositories are only for Issues and Discussions + a few more Git-specific things. (look down for SVN details ↓)
 
 My SVN repository hub is [here](https://cb48-2601-647-6300-6380-d808-ffc1-dc63-7646.ngrok.io/). Credentials for my SVN repos are the same for the general public; Username is "**Public"**, and Password is **"a"**). If you don't want to click that link, you can take a look at its desciption below.  
 
