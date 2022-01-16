@@ -2,7 +2,7 @@ Currently, C++ on Windows is my jam - I make [CarbonCoffee](https://github.com/H
 
 My SVN repository hub is [here](https://cb48-2601-647-6300-6380-d808-ffc1-dc63-7646.ngrok.io/). Credentials for my SVN repos are the same for the general public; Username is "**Public"**, and Password is **"a"**). If you don't want to click that link, you can take a look at its desciption below.  
 
-**[CarbonCoffee](https://cb48-2601-647-6300-6380-d808-ffc1-dc63-7646.ngrok.io/svn/CarbonCoffee/)**: An app which I have decided to migrate to the Mac platform. Its development will be resumed when I get a physial Mac (VMs are a little "eh" 😬)  
+**[CarbonCoffee](https://cb48-2601-647-6300-6380-d808-ffc1-dc63-7646.ngrok.io/svn/CarbonCoffee/)**: An app which I will migrate to the Mac platform. Until I get a Mac, the app will be compiled for Windows. I am using cross-platform APIs, so the migration should take only about a week when its time comes.
 
 **[PizzaOS](https://cb48-2601-647-6300-6380-d808-ffc1-dc63-7646.ngrok.io/svn/PizzaOS/)**: A toy OS which I made from [a tutorial](https://github.com/gmarino2048/64bit-os-tutorial). It is infected with terrible, unfixable bugs, so I only keep it for history's sake 😅
 
