@@ -4,7 +4,7 @@ My SVN repository hub is [here](https://89b8-2601-647-6300-6380-e47c-1838-c25a-6
 
 **[CarbonCoffee](https://89b8-2601-647-6300-6380-e47c-1838-c25a-6214.ngrok.io/svn/CarbonCoffee/)**: An app which is just a crazy experiment that will never be truly finished. **TL;DR:** Something that bundles my own software all into one package.  
 
-**[BlenderMinecraftAssets
+**[BlenderMinecraftAssets](https://89b8-2601-647-6300-6380-e47c-1838-c25a-6214.ngrok.io/svn/BlenderMinecraftAssets/)**: Minecraft assets, designed for Blender. I work on this when I'm too lazy to write real code.
 
 **[PizzaOS](https://89b8-2601-647-6300-6380-e47c-1838-c25a-6214.ngrok.io/svn/PizzaOS/)**: A toy OS which I made from [a tutorial](https://github.com/gmarino2048/64bit-os-tutorial). It is infected with terrible, unfixable bugs, so I only keep it for history's sake 😅
 
