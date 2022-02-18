@@ -8,6 +8,6 @@ My SVN repository hub is [here](https://e13c-2601-647-6300-6380-e825-ba3a-4ef-b4
 
 **[BlenderMinecraftAssets](https://e13c-2601-647-6300-6380-e825-ba3a-4ef-b41f.ngrok.io/svn/BlenderMinecraftAssets/)**: Minecraft assets, designed for Blender. I work on this when I'm too lazy to write real code.
 
-**[PizzaOS](https://e13c-2601-647-6300-6380-e825-ba3a-4ef-b41f.ngrok.io/svn/PizzaOS/)**: A toy OS which I made from [a tutorial](https://github.com/gmarino2048/64bit-os-tutorial). It is infected with terrible, unfixable bugs, so I only keep it for history's sake 😢
+**[PizzaOS](https://e13c-2601-647-6300-6380-e825-ba3a-4ef-b41f.ngrok.io/svn/PizzaOS/)**: A toy OS which I made from [a tutorial](https://github.com/gmarino2048/64bit-os-tutorial). Who knows, maybe someday it'll get serious!
 
 ![BoyKidGIF](https://user-images.githubusercontent.com/70416002/147379155-91a56678-5b4b-43ce-9214-bb75e65b1f58.gif)
