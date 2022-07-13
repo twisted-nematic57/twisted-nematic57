@@ -18,9 +18,10 @@
 - 👯 I’m looking to collaborate on (nothing)
 - 🤔 I’m looking for help with (nothing)
 - 💬 Ask me about any C/C++ coding questions, if you have any
-- 📫 How to reach me: `HackerDaGreat57@gmail.com`
+- 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
 ![HackerDaGreat57's github stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerDaGreat57&layout=compact&langs_count=7&theme=dark"/>
 
