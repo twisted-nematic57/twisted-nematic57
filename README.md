@@ -12,6 +12,9 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerDaGreat57?color=green&logo=github">
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/HackerDaGreat57/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced+C%2FC%2B%2B+developer+👨‍💻;Windows+freak+🪟;Apple+fan+🍎;iPhone+lover+📱;Minecrafter+%26+Hypixel+Warrior+🎮;&quot;Underage&quot;+even+though+I'm+13+🙄;&font=Fira%20Code&center=true&width=440&height=45&color=00ECFF&vCenter=true&size=22"></a>
+</p>
 
 - 🔭 I’m currently working on hacking the Windows kernel
 - 🌱 I’m currently learning C/C++ [here](https://github.com/HackerDaGreat57/learn.git)
