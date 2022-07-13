@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://github.com/MacroPower/MacroPower">
     <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57" alt="page views" />
   </a>
@@ -25,7 +25,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-![HackerDaGreat57's github stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerDaGreat57&layout=compact&langs_count=7&theme=dark"/>
-
-![BoyKidGIF](https://user-images.githubusercontent.com/70416002/147379155-91a56678-5b4b-43ce-9214-bb75e65b1f58.gif)
+  ![HackerDaGreat57's github stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackerDaGreat57&layout=compact&langs_count=7&theme=dark"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=FFE700&background=0F0F0F&border=000000&stroke=DD5A00)](https://git.io/streak-stats)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="HackerDaGreat57's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=HackerDaGreat57&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
