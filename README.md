@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 I’m currently working on hacking the Windows kernel
-- 🌱 I’m currently learning C/C++ [here](https://github.com/HackerDaGreat57/learn.git)
+- 🌱 I’m currently (re)learning C/C++ [here](https://github.com/HackerDaGreat57/learn.git)
 - 👯 I’m looking to collaborate on (nothing)
 - 🤔 I’m looking for help with (nothing)
 - 💬 Ask me about any C/C++ coding questions, if you have any
