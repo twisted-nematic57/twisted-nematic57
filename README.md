@@ -3,9 +3,10 @@
   <a href="https://github.com/HackerDaGreat57/HackerDaGreat57">
     <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57&style=rounded" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17145946?style=rounded&color=orange&label=StackOverflow Reputation (sometimes broken)&logo=stackoverflow">
-  </a>
+  <a href="https://stackoverflow.com/users/17145946/hackerdagreat57" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
+</a>
   <a href="https://reddit.com/u/HackerDaGreat57">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/HackerDaGreat57?style=rounded&label=Reddit Karma&logo=reddit">
   </a>
