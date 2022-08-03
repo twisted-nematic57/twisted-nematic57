@@ -17,7 +17,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I’m currently working on hacking the Windows kernel
-- 🌱 I’m currently making a remake of Blender [here](https://github.com/HackerDaGreat57/bpp.git)
+- 🌱 I’m currently coding an operating system, [3dos](https://github.com/HackerDaGreat57/3dos.git).
 - 👯 I’m looking to collaborate on (nothing)
 - 🤔 I’m looking for help with (nothing)
 - 💬 Ask me about any C/C++ coding questions, if you have any
