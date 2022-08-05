@@ -17,8 +17,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🌱 I’m currently coding an operating system, [3dos](https://github.com/HackerDaGreat57/3dos.git), with the help of [64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial).
-- 👯 I’m looking to collaborate on (nothing)
-- 🤔 I’m looking for help with (nothing)
+- 👯 I’m looking to collaborate on [3dos](https://github.com/HackerDaGreat57/3dos.git)
+- 🤔 I’m looking for help with understanding assembly
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
