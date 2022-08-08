@@ -16,6 +16,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/HackerDaGreat57/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced+C%2FC%2B%2B+developer+👨‍💻;Windows+freak+🪟;Apple+fan+🍎;iPhone+lover+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;&font=Fira%20Code&center=true&width=880&height=45&color=00ECFF&vCenter=true&size=22"></a>
 </p>
 
+# My SVN server is [here](https://9d9c-2601-647-5580-7a50-1d9f-c642-7bb9-56a6.ngrok.io/svn) with username `Public` and password `a`.
+
 - 🌱 I’m currently coding an operating system, [3dos](https://github.com/HackerDaGreat57/3dos.git), with the help of [64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial).
 - 👯 I’m looking to collaborate on [3dos](https://github.com/HackerDaGreat57/3dos.git)
 - 🤔 I’m looking for help with understanding assembly
