@@ -19,7 +19,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 # My SVN server is [here](https://a4c6-2601-647-5580-7a50-a43e-3181-205f-ccc2.ngrok.io/svn) with username `Public` and password `a`.
 
 - 🌱 I’m currently coding an operating system, [3dos](https://github.com/HackerDaGreat57/3dos.git), with the help of [64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial).
-- 👯 I’m looking to collaborate on [3dos](https://github.com/HackerDaGreat57/3dos.git)
+- 👯 I’m looking to collaborate on [3dos](https://a4c6-2601-647-5580-7a50-a43e-3181-205f-ccc2.ngrok.io/svn/3dos/)
 - 🤔 I’m looking for help with understanding assembly
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
