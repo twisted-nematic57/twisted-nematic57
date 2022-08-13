@@ -20,7 +20,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 
 - 🌱 I’m currently coding a utility website, [`something`](https://something.loca.lt).
 - 👯 I’m looking to collaborate on [something](https://github.com/HackerDaGreat57/something)
-- 🤔 I’m looking for help with understanding assembly
+- 🤔 I’m looking for help with understanding JavaScript
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
