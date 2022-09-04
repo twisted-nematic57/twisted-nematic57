@@ -16,15 +16,13 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/HackerDaGreat57/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced+C%2FC%2B%2B+developer+👨‍💻;Windows+freak+🪟;Apple+fan+🍎;iPhone+lover+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;&font=Fira%20Code&center=true&width=880&height=45&color=00ECFF&vCenter=true&size=22"></a>
 </p>
 
-# My website, the `something` project, can be found [here](https://something.loca.lt)
-
-- 🌱 I’m currently coding a utility website, [`something`](https://something.loca.lt).
-- 👯 I’m looking to collaborate on [something](https://github.com/HackerDaGreat57/something)
-- 🤔 I’m looking for help with understanding JavaScript
+- 🔭 I’m currently researching Windows kernel and why it's so damn slow on HDDs 🤔
+- 🌱 I’m currently making a remake of Blender [here](https://github.com/HackerDaGreat57/bpp.git)
+- 👯 I’m looking to collaborate on [Blender++](https://github.com/HackerDaGreat57/bpp.git)
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't get any allowance 😔
+- ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 <p align="center">
 
 ![HackerDaGreat57's github stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
