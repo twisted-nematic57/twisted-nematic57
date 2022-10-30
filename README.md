@@ -17,8 +17,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I’m currently researching Windows kernel and why it's so damn slow on HDDs 🤔
-- 🌱 I’m currently making a remake of Blender [here](https://github.com/HackerDaGreat57/bpp.git)
-- 👯 I’m looking to collaborate on [Blender++](https://github.com/HackerDaGreat57/bpp.git)
+- 🌱 I’m currently creating my own UEFI-based [operating system](https://github.com/HackerDaGreat57/3dos.git)
+- 👯 I’m looking to collaborate on [3dos](https://github.com/HackerDaGreat57/3dos.git)
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
