@@ -17,8 +17,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
-- 🌱 I currently do not know what I'm doing.
-- 👯 I need mental help<sup>exaggeration</sup>. I've been project hopping for months now.
+- 🌱 I’m currently creating my own [operating system](https://github.com/HackerDaGreat57/3dos.git)
+- 👯 I’m looking to collaborate on [3dOS](https://github.com/HackerDaGreat57/3dos.git).
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
