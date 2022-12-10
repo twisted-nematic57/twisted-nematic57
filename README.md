@@ -18,7 +18,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
-- 🌱 I host my own [Gitea server](https://hdg57.eu.org/)! Decentralization galore!
+- 🌱 I host my own [Gitea server](https://gitea.hdg57.eu.org/)! Decentralization galore!
 - 👯 I’m looking to collaborate on [3dOS](https://github.com/HackerDaGreat57/3dos.git).
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
