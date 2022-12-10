@@ -1,4 +1,4 @@
-# [Here's my Gitea server.](https://hdg57.eu.org/)
+# [Here's my Gitea server.](https://gitea.hdg57.eu.org/)
 
 <p align="center">
   <a href="https://github.com/HackerDaGreat57/HackerDaGreat57">
