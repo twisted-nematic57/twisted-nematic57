@@ -1,5 +1,4 @@
-## My Gitea server is currently offline until there is support for postgresql on kinetic for arm64.
-I have learned my lesson of using LTSes whenever possible.
+# [Here's my Gitea server.](https://gitea.hdg57.eu.org/)
 
 <p align="center">
   <a href="https://github.com/HackerDaGreat57/HackerDaGreat57">
