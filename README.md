@@ -23,6 +23,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
+- 🧐 Why are you reading this?
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 <p align="center">
 
