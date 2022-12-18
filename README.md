@@ -1,5 +1,3 @@
-# [Here's my Gitea server.](https://gitea.hdg57.eu.org/)
-
 <p align="center">
   <a href="https://github.com/HackerDaGreat57/HackerDaGreat57">
     <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57&style=rounded" alt="page views" />
@@ -18,7 +16,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
-- 🌱 I host my own [Gitea server](https://gitea.hdg57.eu.org/)! Decentralization galore!
+- 🌱 I just realized how impossible it is to host servers reliably.
 - 👯 I’m looking to collaborate on [3dOS](https://github.com/HackerDaGreat57/3dos.git).
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
