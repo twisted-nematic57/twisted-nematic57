@@ -17,7 +17,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 
 - 🔭 I wonder if aliens exist 🤔
 - 🌱 I just realized how impossible it is to host servers reliably.
-- 👯 I’m looking to collaborate on [3dOS](https://github.com/HackerDaGreat57/3dos.git).
+- 👯 I’m looking to collaborate on [3dOS](https://github.com/HackerDaGreat57/3dOS.git) when I finish laying the groundwork on my private Gitea server. (It's private 'cause Cloudflare is greedy and won't allow big amounts of data on their network on the free plan.)
 - 💬 Ask me about any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
