@@ -24,9 +24,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 - 🧐 Having fun reading my README, eh? Well, read this:
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
     
-<p align="center">
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
   [![HackerDaGreat57's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HackerDaGreat57&bg_color=1F222E&color=F8D866&line=13f6e9&point=FFFFFF&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+
