@@ -16,9 +16,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
-- 🌱 I just realized how impossible it is to host servers reliably. My Gitea was online for a glorious three weeks before PostgreSQL sneezed.
-- 📝 I'm currently making stuff that will be open-source in the future when it's ready for publicity, because if I put the alpha version in front of you right now then you'll think I'm mad
-- 💬 Ask me about any C/C++ coding questions, if you have any
+- 🌱 My [Gitea](http://gitea.hdg57.eu.org) server is back online because I learned how to manually edit my broken Gitea database. I gotta tell you, SQL is way easier than it looks.
+- 📝 I'm currently working on the [Hex-Zip file compression program](http://gitea.hdg57.eu.org/HackerDaGreat57/3dOS/src/branch/hz)
+- 💬 Ask me any C/C++ coding questions, if you have any
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
 - 🧐 Having fun reading my README, eh? Well, read this:
