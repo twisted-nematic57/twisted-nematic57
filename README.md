@@ -12,7 +12,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/HackerDaGreat57?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerDaGreat57?style=rounded&color=green&logo=github">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced+C%2FC%2B%2B+developer+👨‍💻;Linux+freak+🐧;Creator+of+the+Hex-Zip+File+Compression+Program+💾;Apple+fan+🍎;iPhone+SE+(1st+generation)+user+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Neva+gonna+give+you+up+😈;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Experienced+C%2FC%2B%2B+developer+👨‍💻;Linux+freak+🐧;Creator+of+the+Hex-Zip+File+Compression+Program+💾;Apple+fan+🍎;iPhone+SE+(1st+generation)+user+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
@@ -25,6 +25,20 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
     
 I know a bit of Batchfile, Shell, Python, and Java. Although I am familiar with C/C++, I'm not what you'd call a professional developer.
+    
+<details>
+  <summary>My bucket list</summary>
+  
+- [X] **Done (2013):** Use a computer for the first time and think about how the experience just hit different (this is when I got my "spark" 😉)
+- [X] **Done (2017):** Get my first computer and learn the bare basics of Scratch & Python (in 2013-2017 I just unproductively played clickbait mobile games on an iPad 2 all day)
+- [X] **Done (2020):** Fool around with C++/Win32 and get a taste for low-level programming
+- [X] **Done (2022):** Make the switch to Linux and learn to not depend on GUIs for everything - none of my home computers run Windows as of January 2023
+- [ ] **Pending:** Design & finish the Hex-Zip File Compression Program
+- [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a weekend then I can do it in a month!
+- [ ] **Pending:** Design server software for my VCS that people can selfhost easily and painlessly
+- [ ] **Pending:** 
+  
+</details>
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
