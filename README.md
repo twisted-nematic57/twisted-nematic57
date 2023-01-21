@@ -16,8 +16,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
-- 🌱 **My [Gitea](http://gitea.hdg57.eu.org) server is back online** because I learned how to manually edit my broken Gitea database. I gotta tell you, SQL is _way_ easier than it looks.
-- 📝 I'm currently working on [my own software license](http://gitea.hdg57.eu.org/HackerDaGreat57/3dOS/src/branch/os/_indev_assets/LICENSE)
+- 🌱 I just gave up server hosting for good. I'm done. I give up. I learned a bunch. But still, I just give up. Forget it. (I had to reformat my Pi's microSD card after the network bridge configuration went awry and I don't have any external displays)
+- 📝 I'm currently working on [my own software license](http://gitea.hdg57.eu.org/HackerDaGreat57/3dOS/src/branch/os/_indev_assets/LICENSE) (Please note the link will not work for a while until I figure out how to handle my server crisis...)
 - 💬 I'd love to chat, but unfortunately I may take a few weeks to respond to anything...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
