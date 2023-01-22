@@ -17,27 +17,29 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 
 - 🔭 I wonder if aliens exist 🤔
 - 🌱 I just gave up server hosting for good. I'm done. I give up. I learned a bunch. But still, I just give up. Forget it. (I had to reformat my Pi's microSD card after the network bridge configuration went awry and I don't have any external displays)
-- 📝 I'm currently working on [my own software license](http://gitea.hdg57.eu.org/HackerDaGreat57/3dOS/src/branch/os/_indev_assets/LICENSE) (Please note the link will not work for a while until I figure out how to handle my server crisis...)
+- 📝 I'm currently working on [my own licenses](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to view this project!") for assets that will be included in my future projects
 - 💬 I'd love to chat, but unfortunately I may take a few weeks to respond to anything...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
 - 🧐 Having fun reading my README, eh? Well, read this:
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
-    
+
 I know a bit of Batchfile, Shell, Python, and Java. Although I am familiar with C/C++, I'm not what you'd call a professional developer.
-    
+
 <details>
   <summary>My bucket list</summary>
-  
+
 - [X] **Done (2013):** Use a computer for the first time and think about how the experience just hit different (this is when I got my "spark" 😉)
 - [X] **Done (2017):** Get my first computer and learn the bare basics of Scratch & Python (in 2013-2017 I just unproductively played clickbait mobile games on an iPad 2 all day)
 - [X] **Done (2020):** Fool around with C++/Win32 and get a taste for low-level programming
 - [X] **Done (2022):** Make the switch to Linux and learn to not depend on GUIs for everything - none of my home computers run Windows as of January 2023
+- [ ] **In progress:** Make my own asset licenses so people can't use my work for purposes I'm against (like the GNU Philosophies except I also don't like people selling it)
 - [ ] **Pending:** Design & finish the Hex-Zip File Compression Program
-- [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a weekend then I can do it in a month!
-- [ ] **Pending:** Design server software for my VCS that people can selfhost easily and painlessly
-- [ ] **Pending:** 
-  
+- [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a week then I can do it in a year! (Or maybe much much longer than that)
+- [ ] **Pending:** Design server software for my VCS that people can use to selfhost their own GitHub-like website easily and painlessly
+- [ ] **Pending:** Make a file system that uses Hex-Zip compression to maximize the usable storage space of every disk it's formatted with (my operating system that will use this filesystem by default)
+- [ ] **Pending:** Get started on building the Three-Dimensional Operating System. First plan everything and learn more about assembly and computer architectures before starting if necessary.
+
 </details>
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
