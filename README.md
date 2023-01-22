@@ -1,3 +1,5 @@
+    
+
 <p align="center">
   <a href="https://github.com/HackerDaGreat57">
     <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57&style=rounded" alt="page views" />
@@ -33,7 +35,7 @@ I know a bit of Batchfile, Shell, Python, and Java. Although I am familiar with 
 - [X] **Done (2017):** Get my first computer and learn the bare basics of Scratch & Python (in 2013-2017 I just unproductively played clickbait mobile games on an iPad 2 all day)
 - [X] **Done (2020):** Fool around with C++/Win32 and get a taste for low-level programming
 - [X] **Done (2022):** Make the switch to Linux and learn to not depend on GUIs for everything - none of my home computers run Windows as of January 2023
-- [ ] **In progress:** Make my own asset licenses so people can't use my work for purposes I'm against (like the GNU Philosophies except I also don't like people selling it)
+- [ ] **[In progress](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to look at this!"):** Make my own asset licenses so people can't use my work for purposes I'm against (like the GNU Philosophies except I also don't like people selling it)
 - [ ] **Pending:** Design & finish the Hex-Zip File Compression Program
 - [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a week then I can do it in a year! (Or maybe much much longer than that)
 - [ ] **Pending:** Design server software for my VCS that people can use to selfhost their own GitHub-like website easily and painlessly
