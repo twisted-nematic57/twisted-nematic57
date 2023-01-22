@@ -14,7 +14,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/HackerDaGreat57?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerDaGreat57?style=rounded&color=green&logo=github">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+👨‍💻;Linux+freak+🐧;Creator+of+the+Hex-Zip+File+Compression+Program+💾;Apple+fan+🍎;iPhone+SE+(1st+generation)+user+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+👨‍💻;Linux+freak+🐧;Apple+fan+🍎+(the+fruit+and+the+company);iPhone+SE+(1st+generation)+user+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
 - 🔭 I wonder if aliens exist 🤔
