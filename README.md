@@ -19,15 +19,15 @@ Howdy.
 
 - 🔭 I wonder if aliens exist 🤔
 - **🇮🇳** I came from India to the USA just a few years after I was born. I still love my home country but I hate what people are doing to the air there 😮‍💨
-- 🌱 I recently learned [it's possible to host your own Codespace](https://code.visualstudio.com/docs/remote/tunnels) for free. I use it on a relatively feeble Raspberry Pi and it's great, apart from slight 1/6 second terminal input lag. All of my extensions and settings work perfectly, except I can't use a code font other than the default one, but I don't mind it that much.
+- 🌱 I recently learned [it&#39;s possible to host your own Codespace](https://code.visualstudio.com/docs/remote/tunnels) for free. I use it on a relatively feeble Raspberry Pi and it's great, apart from slight 1/6 second terminal input lag. All of my extensions and settings work perfectly, except I can't use a code font other than the default one, but I don't mind it that much.
 - 📝 I'm currently working on [my own licenses](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to view this project!") for assets that will be included in my future projects
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- 🧐 Having fun reading my README, eh? Well, read this:
+- 🧐 One Reddit post I found interesting today is [this interesting &#34;please use the doorbell&#34; sign](https://www.reddit.com/r/funnysigns/comments/10jbaqs/housemate_put_this_sign_on_door_after_amazon/)
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 
-I know a bit of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
+I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
 
 <details>
   <summary>My bucket list</summary>
