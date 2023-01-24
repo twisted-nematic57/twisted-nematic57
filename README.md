@@ -17,7 +17,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 
 Howdy.
 
-- 🔭 I wonder if aliens exist 🤔
+- 🔭 I wonder if aliens exist... 🤔
 - **🇮🇳** I came from India to the USA just a few years after I was born. I still love my home country but I hate what people are doing to the air there 😮‍💨
 - 🌱 I recently learned [it&#39;s possible to host your own Codespace](https://code.visualstudio.com/docs/remote/tunnels) for free. I use it on a relatively feeble Raspberry Pi and it's great, apart from slight 1/6 second terminal input lag. All of my extensions and settings work perfectly, except I can't use a code font other than the default one, but I don't mind it that much.
 - 📝 I'm currently working on [my own licenses](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to view this project!") for assets that will be included in my future projects
