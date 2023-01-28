@@ -24,7 +24,7 @@ Howdy. First thing's first:
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- 🧐 One Reddit post I found interesting today is [this nuisance on an airplane](https://www.reddit.com/r/mildlyinfuriating/comments/10lhb33/dude_spent_the_majority_of_a_late_night_flight/)
+- 🧐 One Reddit post I found interesting today is [this programming-related meme](https://www.reddit.com/r/ProgrammerHumor/comments/10n4daa/c/)
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
