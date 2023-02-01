@@ -15,7 +15,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+👨‍💻;Linux+freak+🐧;Apple+fan+🍎+(the+fruit+and+the+company);iPhone+SE+(1st+generation)+user+📱;Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
-Howdy. First thing's first:
+Howdy. (I live in California which is technically the West 🙃)
 
 - 🔭 I wonder if aliens exist... 🤔
 - **🇮🇳** I came from India to the USA just a few years after I was born. I still love my home country but I hate what people are doing to the air there 😮‍💨
@@ -24,7 +24,7 @@ Howdy. First thing's first:
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- 🧐 One Reddit post I found interesting today is [this great show of masterful cooking](https://www.reddit.com/r/oddlysatisfying/comments/10pi2e3/not_a_drop_of_food_spilt/)
+- 🦠 Help scientists fight disastrous diseases by [Folding@home](https://foldingathome.org/). My team number is [1064291](https://stats.foldingathome.org/team/1064291).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
