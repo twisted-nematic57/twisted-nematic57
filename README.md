@@ -24,7 +24,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- 🦠 Help scientists fight disastrous diseases by [Folding@home](https://foldingathome.org/). My team number is [1064291](https://stats.foldingathome.org/team/1064291).
+- 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). My team number is [1064291](https://stats.foldingathome.org/team/1064291) and [here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
