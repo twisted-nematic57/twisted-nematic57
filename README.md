@@ -19,7 +19,8 @@ Howdy. (I live in California which is technically the West 🙃)
 
 - 🔭 I wonder if aliens exist... 🤔
 - **🇮🇳** I came from India to the USA just a few years after I was born. I still love my home country but I hate what people are doing to the air there 😮‍💨
-- 🌱 I am [learning electronics](https://github.com/HackerDaGreat57/electronics/tree/learning).
+- 📖 I am reading [How Computers Work: The Evolution of Technology](https://www.amazon.com/How-Computers-Work-Evolution-Technology/dp/078974984X).
+- 🌱 With the knowledge I acquire from the book mentioned above and a few others, I will attempt building my own CPU emulator.
 - 📝 I'm currently working on [my own licenses](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to view this project!") for assets that will be included in my future projects
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
