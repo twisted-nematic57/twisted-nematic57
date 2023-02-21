@@ -42,6 +42,7 @@ I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somew
 - [ ] **Pending:** Design server software for my VCS that people can use to selfhost their own GitHub-like website easily and painlessly
 - [ ] **Pending:** Make a file system that uses Hex-Zip compression to maximize the usable storage space of every disk it's formatted with (my operating system will use this filesystem by default)
 - [ ] **Pending:** Get started on building the Three-Dimensional Operating System. First plan everything and learn more about assembly and computer architectures before starting if necessary.
+- [ ] **Pending, probably never will complete:** Find a way to convert matter into electrical energy and precisely manipulate matter to solve all of humanity's problems - figure out teleportation while you're at it
 
 </details>
 
