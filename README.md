@@ -20,7 +20,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 🔭 I wonder if aliens exist... 🤔
 - 📖 I am reading [How Computers Work: The Evolution of Technology](https://www.amazon.com/How-Computers-Work-Evolution-Technology/dp/078974984X).
 - 🌱 With the knowledge I acquire from the book mentioned above and a few others, I will attempt building my own CPU emulator.
-- 📝 I'm currently working on [my own licenses](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to view this project!") for assets that will be included in my future projects
+- 📝 I'm currently working on [a handy build script for GCC](https://github.com/HackerDaGreat57/trinkets)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
@@ -36,7 +36,7 @@ I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somew
 - [X] **Done (2017):** Get my first computer and learn the bare basics of Scratch & Python (in 2013-2017 I just unproductively played clickbait mobile games on an iPad 2 all day)
 - [X] **Done (2020):** Fool around with C++/Win32 and get a taste for low-level programming (most of my C++ experience originates in this period)
 - [X] **Done (2022):** Make the switch to Linux and learn to not depend on GUIs for everything - none of my home computers run Windows as of January 2023
-- [ ] **[In progress](https://github.com/HackerDaGreat57/3dOS-License-Suite "Click here to look at this!"):** Make my own asset licenses so people can't use my work for purposes I'm against (like the GNU Philosophies except I also don't like people selling it)
+- [ ] **In progress:** Make a user-friendly build script for GCC that makes the process of building it so much easier
 - [ ] **Pending:** Design & finish the Hex-Zip File Compression Program (details coming soon)
 - [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a week then I can do it in a year! (Or maybe much much longer than that)
 - [ ] **Pending:** Design server software for my VCS that people can use to selfhost their own GitHub-like website easily and painlessly
