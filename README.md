@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HackerDaGreat57&label=Profile%20Views&pretty=true" />
-</a>
+  <a href="https://github.com/HackerDaGreat57">
+    <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57&style=rounded" alt="page views" />
+  </a>
   <a href="https://stackoverflow.com/users/17145946/hackerdagreat57" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
