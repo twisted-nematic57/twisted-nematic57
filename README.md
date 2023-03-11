@@ -19,12 +19,12 @@ Howdy. (I live in California which is technically the West 🙃)
 
 - 🔭 I wonder if aliens exist... 🤔
 - 📖 I am reading [How Computers Work: The Evolution of Technology](https://www.amazon.com/How-Computers-Work-Evolution-Technology/dp/078974984X).
-- 🌱 With the knowledge I acquire from the book mentioned above and a few others, I will attempt building my own CPU emulator. Someday.
-- 📝 You know, I think I'm very smart. *I'm not.* This is why I am learning C++ *[AGAIN](https://github.com/HackerDaGreat57/learn)*. I don't even know what a vector is! 😭
+- 🌱 With the knowledge I acquire from the book mentioned above and a few others, I will attempt building my own CPU emulator.
+- 📝 I'm currently working on [a handy build helper for GCC](https://github.com/HackerDaGreat57/trinkets)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 Pronouns: He/Him
-- 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). My team number is [1064291](https://stats.foldingathome.org/team/1064291) and [here&#39;s my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
+- 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). My team number is [1064291](https://stats.foldingathome.org/team/1064291) and [here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
@@ -36,8 +36,7 @@ I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somew
 - [X] **Done (2017):** Get my first computer and learn the bare basics of Scratch & Python (in 2013-2017 I just unproductively played clickbait mobile games on an iPad 2 all day)
 - [X] **Done (2020):** Fool around with C++/Win32 and get a taste for low-level programming (most of my C++ experience originates in this period)
 - [X] **Done (2022):** Make the switch to Linux and learn to not depend on GUIs for everything - none of my home computers run Windows as of January 2023
-- [ ] **[In progress](https://github.com/HackerDaGreat57/learn):** Relearn C++ because I realized I've been missing out on the newest standards...
-- [ ] **Pending:** Make a user-friendly build script for GCC that makes the process of building it so much easier
+- [ ] **In progress:** Make a user-friendly build script for GCC that makes the process of building it so much easier
 - [ ] **Pending:** Design & finish the Hex-Zip File Compression Program (details coming soon)
 - [ ] **Pending:** Create a version control system like Git based on Hex-Zip. If Torvalds can do it in a week then I can do it in a year! (Or maybe much much longer than that)
 - [ ] **Pending:** Design server software for my VCS that people can use to selfhost their own GitHub-like website easily and painlessly
