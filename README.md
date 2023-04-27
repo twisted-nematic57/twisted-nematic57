@@ -18,8 +18,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 Howdy. (I live in California which is technically the West 🙃)
 
 - 🔭 I wonder if aliens exist... 🤔
-- 📖 I am reading [How Computers Work: The Evolution of Technology](https://www.amazon.com/How-Computers-Work-Evolution-Technology/dp/078974984X).
-- 🌱 With the knowledge I acquire from the book mentioned above and a few others, I will attempt building my own CPU emulator.
+- 📖 I am reading [Next Level Thinking](https://www.amazon.com/Next-Level-Thinking-Powerful-Successful/dp/1546010521) by Joel Osteen.
+- 🌱 Keep learning. Keep going. Keep growing.
 - 📝 I'm currently working on [the next generation of computer operating systems](https://github.com/HackerDaGreat57/3dOS)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
