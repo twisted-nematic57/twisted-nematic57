@@ -27,7 +27,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 - 😎 [Everything's gonna be A-OK](https://www.youtube.com/watch?v=tGqxcIMSYbQ)
-- 🎵 [All of my favorite music](https://open.spotify.com/playlist/1gMCKPdIJE9EtJvhLS5t4s?si=d844c4652af9487a&nd=1#login) is on Spotify
+- 🎵 [All of my favorite music](https://open.spotify.com/playlist/1gMCKPdIJE9EtJvhLS5t4s?si=d844c4652af9487a&nd=1#login) is on Spotify (I was not paid to put this here)
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
 
