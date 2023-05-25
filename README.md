@@ -23,7 +23,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 📝 I'm currently working on [the next generation of computer operating systems](https://github.com/HackerDaGreat57/3dOS)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
-- 😄 Pronouns: He/Him
+- 😄 A punchline I made myself: `Girl, are you an SSH session? 'Cause no matter how hard I try, I can't get you to open up to me.`
 - 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 - 😎 [Everything's gonna be A-OK](https://www.youtube.com/watch?v=tGqxcIMSYbQ)
