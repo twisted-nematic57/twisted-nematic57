@@ -18,9 +18,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 Howdy. (I live in California which is technically the West 🙃)
 
 - 🔭 I wonder if aliens exist... 🤔
-- 📖 I am reading [Next Level Thinking](https://www.amazon.com/Next-Level-Thinking-Powerful-Successful/dp/1546010521) by Joel Osteen.
+- 📖 I am reading lots of technical books which I never finish.
 - 🌱 Keep learning. Keep going. Keep growing.
-- 📝 I'm currently working on [the next generation of computer operating systems](https://github.com/HackerDaGreat57/3dOS)
+- 📝 I'm currently working on [the C++ build system of your dreams](https://github.com/HackerDaGreat57/np)
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `HackerDaGreat57#2046` on Discord
 - 😄 A punchline I made myself: `Are you an SSH session? 'Cause no matter how hard I try, I can't get you to open up to me.`
