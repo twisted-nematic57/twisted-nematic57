@@ -20,7 +20,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 🔭 I wonder if aliens exist... 🤔
 - 📖 I am reading lots of technical books which I never finish.
 - 🌱 Keep learning. Keep going. Keep growing.
-- 📝 I'm currently working on [the C++ build system of your dreams](https://github.com/HackerDaGreat57/np)
+- 📝 I'm currently extremely busy and have 0 time to code. This will change in the future. I hope.
 - 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `hackerdagreat57` on Discord
 - 💢 Why are social media companies turning against us? What did we do to them???
