@@ -26,7 +26,7 @@ Howdy. (I live in California which is technically the West 🙃)
 - 💢 Why are social media companies turning against us? What did we do to them???
 - 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
-- 🎵 [New playlist just dropped](https://open.spotify.com/playlist/1O0gNilXGQSgi8t0IsmOg4?si=17dd8b1d705b42fe) (I was not paid to put this here)
+- 🎵 [New playlist just dropped](https://open.spotify.com/playlist/1O0gNilXGQSgi8t0IsmOg4?si=17dd8b1d705b42fe) (I was not paid to put this here, and yes, this playlist symbolizes "middle school crush shenanigans" pretty nicely)
 
 I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
 
