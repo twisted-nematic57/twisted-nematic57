@@ -12,23 +12,23 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
   <a href="https://github.com/HackerDaGreat57?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/HackerDaGreat57?style=rounded&color=green&logo=github">
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+🧑‍💻;Linux+freak+🐧;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+🧑‍💻;Apple+fan+🍎+(the+fruit,+not+the+company);I+use+a+very+tiny+phone+📱+(%C2%BE+the+size+of+my+palm🧍);Former+Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Newbie+Genshin+Impact+enjoyer+👼;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;%22im+trying+to+redo+my+book+shelf%22+-+aki_01.11;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+🧑‍💻;RP2040+Assembly+Learner+⚡;%22CEO%22+of+Ardent+%22Unlimited%22+🧑‍💼;Linux+freak+🐧;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+🧑‍💻;Apple+fan+🍎+(the+fruit,+not+the+company);Former+Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Ice+Dodo+Professional+🟥;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
-Howdy. (I live in California which is technically the West 🙃)
+Howdy.
 
 - 🔭 I wonder if aliens exist... 🤔
 - 📖 I am reading lots of technical books which I never finish.
 - 🌱 Keep learning. Keep going. Keep growing.
-- 📝 I'm currently extremely busy and have 0 time to code. This will change in the future. I hope.
-- 💬 I'd love to chat, but unfortunately I barely have time for anything these days...
+- 📝 I'm learning RP2040 (ARM Cortex-M0+) assembly, and honestly it's easier than I expected.
+- 💬 I'm open for chatting about pretty much anything.
 - 📫 How to reach me: `HackerDaGreat57@gmail.com` or `hackerdagreat57` on Discord
 - 💢 Why is so much of today's software so inefficient? Is there really no better way to get things done??
-- 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57).
+- 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57). (I was not paid to put this here)
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
-- 🎵 [New playlist just dropped](https://open.spotify.com/playlist/0DSYANB9EbsKKsZrYr5w52?si=263aabb794bf4401) (I was not paid to put this here)
+- 🎵 Favorite artist: [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) (I was not paid to put this here)
 
-I know a *bit* of Batchfile, Shell script, Python, and Java. Although I am somewhat familiar with C/C++, I'm not (yet) what you'd call a developer who knows *exactly* what he's doing. LOL
+I know a *bit* of Bash and C++. I used to know Batchfile, but then I moved on from Windows, and honestly you should too.
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
