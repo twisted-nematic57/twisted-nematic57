@@ -6,7 +6,7 @@
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+🧑‍💻;RP2040+Assembly+Learner+⚡;%22CEO%22+of+Ardent+%22Unlimited%22+🧑‍💼;Linux+freak+🐧;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+🧑‍💻;Apple+fan+🍎+(the+fruit,+not+the+company);Former+Minecrafter+🎮+%26+Hypixel+Warrior+⚔️;Ice+Dodo+Professional+🟥;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+🧑‍💻;RP2040+Assembly+Learner+⚡;Head+of+Ardent+Development+🧑‍💼;Linux+freak+🐧;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+👩‍🏭🔧📝📈;Apple+fan+🍎+(the+fruit,+not+the+company);Kaeya+Main+🦹‍♂️🗡️🧊;Ice+Dodo+Professional+🟥;Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
 Howdy.
@@ -22,7 +22,7 @@ Howdy.
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
 - 🎵 Favorite artist: [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) (I was not paid to put this here)
 
-I know a *bit* of Bash and C++. I used to know Batchfile, but then I moved on from Windows, and honestly you should too.
+I know a *bit* of Bash and C++. I also know what I think is a lot about mid-high level computer architecture, but there is still a lot for me to learn. I used to know Batchfile, but then I moved on from Windows, and honestly you should too.
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
