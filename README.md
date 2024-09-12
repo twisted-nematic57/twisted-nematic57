@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/HackerDaGreat57">
-    <img src="https://komarev.com/ghpvc/?username=HackerDaGreat57&style=rounded" alt="page views" />
+  <a href="https://github.com/twisted-nematic57">
+    <img src="https://komarev.com/ghpvc/?username=twisted-nematic57&style=rounded" alt="page views" />
   </a>
-  <a href="https://stackoverflow.com/users/17145946/hackerdagreat57" target="_blank">
+  <a href="https://stackoverflow.com/users/17145946/twisted-nematic57" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </a>
@@ -24,9 +24,9 @@ Howdy.
 
 I know a *bit* of Bash and C++. I also know what I think is a lot about mid-high level computer architecture, but there is still a lot for me to learn. I used to know Batchfile, but then I moved on from Windows, and honestly you should too.
 
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerDaGreat57&show_icons=true&theme=chartreuse-dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HackerDaGreat57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
-  [![HackerDaGreat57's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HackerDaGreat57&bg_color=1F222E&color=F8D866&line=13f6e9&point=FFFFFF&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=twisted-nematic57&show_icons=true&theme=chartreuse-dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=twisted-nematic57&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=080909)](https://git.io/streak-stats)
+  [![twisted-nematic57's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=twisted-nematic57&bg_color=1F222E&color=F8D866&line=13f6e9&point=FFFFFF&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <a href="http://www.nerdtests.com/ft_nq.php">
 <img src="http://www.nerdtests.com/images/ft/nq/21991e3bef.gif" alt="I am nerdier than 98% of all people. Are you a nerd? Click here to take the Nerd Test, get nerdy images and jokes, and write on the nerd forum!"></a>
