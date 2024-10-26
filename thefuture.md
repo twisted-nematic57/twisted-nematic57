@@ -1,8 +1,7 @@
 Game plan
 - [ ] Finish CycleGen template
 - [ ] Finish GoL
-- [ ] Finish Periodic Table
-- [ ] Finish Cuberunner
+- [ ] Finish DeepRCL
 - [ ] Finish Formula One
 - [ ] Fully learn C
 - [ ] Fully learn RP2040 ASM
