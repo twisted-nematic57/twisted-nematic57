@@ -16,7 +16,7 @@ Howdy.
 - 🌱 Keep learning. Keep going. Keep growing.
 - 📝 I'm learning RP2040 (ARM Cortex-M0+) assembly, and honestly it's easier than I expected.
 - 💬 I'm open for chatting about pretty much anything.
-- 📫 How to reach me: `HackerDaGreat57@gmail.com` or `hackerdagreat57` on Discord
+- 📫 How to reach me: `twisted.nematic57@gmail.com` or `twisted_nematic57` on Discord
 - 💢 Why is so much of today's software so inefficient? Is there really no better way to get things done??
 - 🦠 Help scientists fight disastrous diseases by [folding@home](https://foldingathome.org/). [Here's my profile](https://stats.foldingathome.org/donor/name/HackerDaGreat57). (I was not paid to put this here)
 - ⚡ Fun (actually pretty sad) fact: I don't get any allowance 😔
