@@ -1,9 +1,7 @@
 Game plan
 - [ ] Finish RPi Pico 89T Screenshot Grabber (Python)
-- [ ] Finish CycleGen template
-- [ ] Finish CycleView
+- [X] Finish CycleGen template
 - [ ] Finish DeepRCL
-- [ ] Finish Formula One
 - [ ] Finish GoL
 - [ ] Fully learn C
 - [ ] Fully learn RP2040 ASM
