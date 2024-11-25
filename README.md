@@ -16,8 +16,23 @@ Howdy.
 - 💎 Tech needs to be open-source for it to really shine. That's every single one of my projects has its source available to the public.
 - 🎵 Favorite artist: [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) (I was not paid to put this here)
 
-### My projects
+## My projects
 
- - [CycleGen](https://github.com/ardent-development/CycleGen): a user-friendly customizable BASIC script for the TI-89 Titanium graphing calculator that enables one to produce smooth animations of graphs. It can do things that Desmos can't, like algebraic operations on variables on a per-frame basis.
- - [Clicker](https://github.com/ardent-development/Clicker): yet another BASIC script for the TI-89 Titanium that enables one to recursively execute a single-variable function without the inconvenience of filling their home screen with temporary garbage.
- - **[In progress]** [a5x5](https://github.com/ardent-development/a5x5): A variable-width raster font designed for use on systems with extremely low resolution and pixel density.
+### **[In progress]** [Titanium-49](https://github.com/ardent-development/Titanium-49)
+
+A hardware device based on the Raspberry Pi Pico that allows one to capture screenshots of and remotely control their TI-89 Titanium graphing calculator from their PC. Exposes a well-documented serial-over-USB interface that web-based and native apps alike can link with. Completely open-source, written in Python, and can easily be built at home from parts and a breadboard.
+
+
+### **[In progress]** [CycleGen](https://github.com/ardent-development/CycleGen)
+
+A user-friendly, customizable BASIC script for the TI-89 Titanium graphing calculator that enables one to produce smooth animations of graphs. It can do things that Desmos can't, like algebraic operations on variables on a per-frame basis. Extremely powerful due to its infinite flexibility and granting of total power to the user.
+
+
+### [Clicker](https://github.com/ardent-development/Clicker)
+
+A high-performance recursive function executor for the TI-89 Titanium. Its main selling point is the fact that one need not fill up their home screen with intermediate garbage when wanting to execute a recursive function many times. Built to be as fast as the TI-BASIC interpreter can make it while also offering a couple of QoL features.
+
+
+### **[In progress]** [a5x5](https://github.com/ardent-development/a5x5)
+
+A variable-width raster font designed for use on systems with extremely low resolution and pixel density.
