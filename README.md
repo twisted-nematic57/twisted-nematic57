@@ -23,9 +23,9 @@ Howdy.
 A hardware device based on the Raspberry Pi Pico that allows one to capture screenshots of and remotely control their TI-89 Titanium graphing calculator from their PC. Exposes a well-documented serial-over-USB interface that web-based and native apps alike can link with. Completely open-source, written in Python, and can easily be built at home from parts and a breadboard.
 
 
-### **[In progress]** [CycleGen](https://github.com/ardent-development/CycleGen)
+### [CycleGen](https://github.com/ardent-development/CycleGen)
 
-A user-friendly, customizable BASIC script for the TI-89 Titanium graphing calculator that enables one to produce smooth animations of graphs. It can do things that Desmos can't, like algebraic operations on variables on a per-frame basis. Extremely powerful due to its infinite flexibility and granting of total power to the user.
+CycleGen is the most powerful graphical animation generator for the TI-89 Titanium. It supports 2D, 3D, parametric, polar, sequence, and differential graphs. It can easily use all available memory: it lets you take advantage of the vast expanse of available storage in the Flash chip, while also having some safety features that ensure Flash writes only happen when absolutely necessary. It can do things that Desmos can't, like algebraic operations on variables on a per-frame basis. Extremely powerful due to its infinite flexibility and granting of total power to the user.
 
 
 ### [Clicker](https://github.com/ardent-development/Clicker)
