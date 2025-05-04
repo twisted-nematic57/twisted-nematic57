@@ -6,7 +6,7 @@
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 </a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Somewhat+experienced+C%2FC%2B%2B+developer+🧑‍💻;Linux+freak+🐧;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+👩‍🏭🔧📝📈;Apple+fan+🍎+(the+fruit,+not+the+company);Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=TI-BASIC+freak+🧮;Somewhat+experienced+C%2FC%2B%2B+developer+👩‍💻;Former+Windows+fanatic+🪟;Hardware+engineering+%26+low-level+programming+enthusiast+👩‍🏭🔧📝📈;Apple+fan+🍎+(the+fruit,+not+the+company);Framework+fan+⚙️+(the+company+this+time);Major+foodie+🍕🍔🍟🍿🧇🥞🍞🥨🥯🥖🧀🥪🌮🎂🍰🧁🍪🍩🍨🍫🍬🍭;Neva+gonna+give+you+up+😈;&font=Fira%20Code&center=true&width=880&height=45&color=00F779&vCenter=true&size=22"></a>
 </p>
 
 Howdy.
