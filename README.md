@@ -12,7 +12,6 @@ src="https://stackoverflow-badge.vercel.app/?userID=17145946" />
 Howdy.
 
 - 🌱 Keep learning. Keep going. Keep growing.
-- 📝 Writing low-level code is fun. Worrying about hardware going EOL is not.
+- 📝 Writing low-level code is fun. Worrying about hardware going EOL is not. (Java is fun too.)
 - 💎 Tech needs to be open-source for it to really shine. That's every single one of my projects has its source available to the public.
-- 🎵 Favorite artist: [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) (I was not paid to put this here)
-- 📉 Favorite xkcd: [Tariffs](https://xkcd.com/3073)
+- 🎵 Minecraft Volume Beta (C418) was almost certainly playing in the background as I wrote most of my code, FYI.
